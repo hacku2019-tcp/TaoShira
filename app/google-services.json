@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823707126190",
+    "firebase_url": "https://hacku-7ea06.firebaseio.com",
+    "project_id": "hacku-7ea06",
+    "storage_bucket": "hacku-7ea06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823707126190:android:046cfb2c32b0954f",
+        "android_client_info": {
+          "package_name": "com.tia.my.app.taoshira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823707126190-mrurarsa3tgal3fm615li5hu75rig4fh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tia.my.app.taoshira",
+            "certificate_hash": "cc6267f63a6a6762447366be332be694c1bd326e"
+          }
+        },
+        {
+          "client_id": "823707126190-r7culs3h11ifgsco93hcuoum45u65tll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj9IzBXrktgla1ytEFkDY6GAZb_6KTIBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823707126190-r7culs3h11ifgsco93hcuoum45u65tll.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
